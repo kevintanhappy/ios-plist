@@ -13,6 +13,14 @@
                     <key>url</key>
                     <string>https://www.senvo.com.cn/bibo.ipa</string>
                 </dict>
+		<dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://www.senvo.com.cn/static/images/common/bibo_logo.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
