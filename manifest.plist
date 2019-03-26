@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>4JYAX2VT5B.com.test.ko</string>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
