@@ -29,8 +29,8 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>bundle-identifier</key>
-                <string>com.taoyile.mall</string>
+                <key>keychain-access-groups</key>
+                <string>4JYAX2VT5B.com.test.ko</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
