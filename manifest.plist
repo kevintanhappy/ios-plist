@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-		<string>com.apple.compilers.llvm.clang.1_0</string>
+		<string>com.bibo.kukuade</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
