@@ -21,11 +21,19 @@
                     <key>url</key>
                     <string>https://www.senvo.com.cn/static/images/common/bibo_logo.png</string>
                 </dict>
+		<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://www.senvo.com.cn/static/images/common/bibo_logo.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
+		<string>com.apple.compilers.llvm.clang.1_0</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
