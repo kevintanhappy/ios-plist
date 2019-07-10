@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.lsd2017.com/download/bibo.ipa</string>
+                    <string>https://www.coinxst.vip/download/xinshitong.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-		<string>com.bibo.kukuade</string>
+		<string>com.xinshixun.cn</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>币波</string>
+                <string>新时通</string>
             </dict>
         </dict>
     </array>
